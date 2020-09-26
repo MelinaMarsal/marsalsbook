@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Srisakdi&display=swap');
+
+.navbar {
+    top: 0;
+    width: 80%;
+}
+#.page-all {
+    margin-right: 10%;
+    margin-left: 10%;
+    max-width: 80%;
+}
+
+h1 {
+    color: gray;
+    font-family: 'Srisakdi', cursive;
+    font-weight: 700;
+    text-align: center;
+    font-size: 225%;
+    margin: 4%;
+    padding-top: 100px;
+}
+
+h4 {
+    color: darkslategrey;
+    font-family: 'Srisakdi', cursive;
+    font-weight: 1000;
+    text-align: center;
+    font-size: 500%;
+    margin: 4%;
+    padding-top: 100px;
+}
+
+.carousel-inner {
+    margin-bottom: 100px;
+}
+
+.carousel-item {
+    border: rgb(144, 144, 144);
+    border-width: medium;
+}
+
+.card {
+    position: relative;
+    padding: 10px;
+    display: flex;
+    margin: 5%
+}
+
+.card-columns {
+    width: 100%;
+    position: relative;
+    align-content: center;
+    display: flex;
+}
+
+.mese-div {
+    color: slategray;
+    font-family: 'Srisakdi', cursive;
+    font-weight: 700;
+    text-align: center;
+    font-size: 175%;
+    margin: 4%;
+    margin-right: 10%;
+    margin-left: 10%;
+    max-width: 80%;
+}
+
+.carousel {
+    margin-right: 10%;
+    margin-left: 10%;
+
+}
+
+.navbar {
+    margin-right: 10%;
+    margin-left: 10%;
+}
